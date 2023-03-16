@@ -638,14 +638,14 @@ $(document).ready(function() {
                 'ee_ee',
                 'ee_ee',
                 'ee_ee',             
-                'ee___',
                 'ee_ee',
                 'ee_ee',
                 'ee_ee',
                 'ee_ee',
                 'ee_ee',
                 'ee_ee',
-                'eeeee',
+                'ee_ee',
+                'ee_ee',
             ],
             seats: {
                 f: {
