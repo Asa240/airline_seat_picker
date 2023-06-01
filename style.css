@@ -553,11 +553,11 @@ a {
 .booking-details {
   float: left;
   text-align: left;
-  margin-left: 25px;
-  font-size: 14px;
+  margin-left: 10px;
+  font-size: 11px;
   position: relative;
   height: 401px;
-  width: 150px;
+  width: 132px;
 }
 .booking-details h2 {
   margin: 25px 0 20px 0;
@@ -603,8 +603,8 @@ div.seatCharts-seat.unavailable {
 }
 div.seatCharts-container {
   border-right: 1px dotted #adadad;
-  width: 200px;
-  padding: 20px;
+  width: 191px;
+  padding: 10px;
   float: left;
 }
 div.seatCharts-legend {
@@ -626,7 +626,7 @@ span.seatCharts-legendDescription {
   display: block;
   margin: 10px auto 60px;
   width: fit-content;
-  font-size: 19px;
+  font-size: 16px;
   border-radius: 1px;
   background: #252525;
   text-decoration: none;
@@ -652,7 +652,7 @@ span.seatCharts-legendDescription {
 #selected-seats {
   overflow-y: scroll;
   overflow-x: none;
-  width: 192px;
+  width: 153px;
   padding-left: 0px !important;
   margin-top: 10px;
 }
